@@ -1,0 +1,67 @@
+﻿//StreamerFunction.inc
+[ADM] Error: Your Streamer ... It is not compatible with this version Streamer Functions, update your Streamer to ...
+[ADM] Info: Load Streamer Functions v... for SA:MP ... by Abyss Morgan
+[ADM] Info: Unload Streamer Functions v... for SA:MP ... by Abyss Morgan
+
+
+//3DTryg.inc
+[ADM] Info: Please update your 3DTryg include to ... from here:
+[ADM] Info: Load 3DTryg v... for SA:MP ... by Abyss Morgan
+[ADM] Info: Unload 3DTryg v... for SA:MP ... by Abyss Morgan
+[ADM] Info: MapAndreas successfully init.
+[ADM] Info: ColAndreas successfully init.
+[ADM] Info: YSF Timeline Sync successfully init.
+[ADM] Info: MapAndreas successfully attached to FCNPC.
+[ADM] Error: MapAndreas failed to initiated.
+[ADM] Error: ColAndreas failed to initiated.
+[ADM] Error: Cannot load /scriptfiles/SAfull.hmap
+[ADM] Error: Cannot load /scriptfiles/colandreas/ColAndreas.cadb
+
+
+//UltimateScriptSecure.inc
+[ADM] Info: Local server detect.
+[ADM] Error: This script is stolen.
+[ADM] Error: Script license has expired.
+[ADM] Error: Invalid server config, check your max players.
+[ADM] Error: Invalid server config, check your rcon password.
+[ADM] Error: Invalid server config, check your language.
+[ADM] Error: The script did not get permission to activation.
+
+
+//Mines.inc
+[ADM] Error: Failed to CreateDynamicMine limit ... exceeded, add #define MAX_MINES before Mines.inc
+
+
+//Missile.inc
+[ADM] Error: Failed to MissileLaunch limit ... exceeded, add #define MAX_MISSILE before Missile.inc
+
+
+//Stingers.inc
+[ADM] Error: Failed to CreateDynamicStinger limit ... exceeded, add #define MAX_STINGERS before Stingers.inc
+
+
+//EVF.inc
+[ADM] Error: Your server have reached MAX_VEHICLES limit (%i).
+
+
+//EngineX.inc
+[ADM] Info: NGCM Mob Move Engine System ... loaded.
+[ADM] Info: NGCM Mob Move Engine System ... unloaded.
+[ADM] Error: NGCM Mob Move Engine System ... not loaded.
+
+
+//EngineV6.inc
+[ADM] Error: NGCM Mob Move Engine System ... not loaded.
+[ADM] Info: NGCM Mob Move Engine System ... loaded.
+[ADM] Info: NGCM Mob Move Engine System ... unloaded.
+
+
+//SAOI.inc
+[ADM] Error: This SAOI file is protected.
+[ADM] Info: SAOI has been attached to ...
+[ADM] Info: SAOI has been detached from ...
+
+
+//Global
+[ADM] Error: Invalid MapAndreas Memory.
+[ADM] Error: Invalid ColAndreas Memory.

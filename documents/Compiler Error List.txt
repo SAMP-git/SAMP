@@ -1,0 +1,41 @@
+Plugin Include:
+[ADM] This include requires SA:MP version 0.3.7
+[ADM] You need SScanf v2.8.2
+[ADM] You need Streamer v2.9.0
+[ADM] You need MapAndreas v1.2.1
+[ADM] You need ColAndreas v1.4.0
+[ADM] You need ColAndreas/MapAndreas
+[ADM] You need YSF R19
+[ADM] You need FCNPC v1.7.3
+
+Global Include:
+Detected another command system
+
+
+All Include:
+[ADM] You need <include name> <include version>
+[ADM] Update you <include name> to <include version>
+[ADM] You need a_actor.inc
+[ADM] You need a_http.inc
+
+[ADM] You need izcmd.inc or zcmd.inc
+[ADM] Please include a_http.inc before ...
+
+ADM Include:
+[ADM] Please include EVF.inc after 3DTryg.inc for improvements
+[ADM] Please include FoxForeach before 3DTryg, for increase loop speed.
+[ADM] Invalid DestroyDynamicObject Hook version. Invalid definition INVALID_DYNAMIC_OBJECT_ID
+[ADM] Please remove deprecated file VehicleEx.inc
+[ADM] Please remove deprecated file base64.inc
+[ADM] Please remove deprecated file TextDrawEx.inc
+[ADM] Please remove deprecated file MapAndreasEx.inc
+[ADM] Invalid mechanism StreamerFunction.inc:DestroyFix (Use #define DISABLE_STREAMER_SPEC_FIXES before StreamerFunction.inc)
+
+Engine Include:
+[ADM] Fatal error incompatible NOX
+
+
+Security Include:
+[ADM] Please #define SCRIPT_ACK_KEY "key"
+[ADM] Please #define SCRIPT_ACK_URL "ack_url"
+[ADM] Please #define SCRIPT_ANTI_FLOOD <random number>
