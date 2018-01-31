@@ -1,4 +1,4 @@
-//AbyssMorgan
+//Abyss Morgan
 //%d:%02d:%02d:%02d (day hour minute second) 
 #define SecToTimeDay(%0)            ((%0) / 86400),(((%0) % 86400) / 3600),((((%0) % 86400) % 3600) / 60),((((%0) % 86400) % 3600) % 60) 
 #define MSToTimeDay(%0)                SecToTimeDay((%0)/1000) 

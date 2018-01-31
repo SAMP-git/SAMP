@@ -11,10 +11,6 @@
 * [RW:MP Forum](http://8.ct8.pl/r/forum_rwmp)
 
 
-### Repository Scripts/Includes Support:
-* [Support List](https://github.com/AbyssMorgan/SA-MP/wiki/Support)
-
-
 ### Repository developer:
 * [Abyss Morgan](http://8.ct8.pl/r/abyssmorgan)
 
