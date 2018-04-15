@@ -39,7 +39,6 @@
 * Shiny
 * [Emmet_](https://github.com/emmet-jones)
 * [Pottus](http://forum.sa-mp.com/member.php?u=169807)
-* [kvann](http://forum.sa-mp.com/member.php?u=169274)
 * [Hanger](http://forum.sa-mp.com/member.php?u=160578)
 * [Ivan_Ino](http://forum.sa-mp.com/member.php?u=182165)
 * [Sreyas](http://forum.sa-mp.com/member.php?u=268427)
